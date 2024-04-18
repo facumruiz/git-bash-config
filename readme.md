@@ -21,7 +21,7 @@ eval "$(oh-my-posh init bash --config ~/AppData/Local/Programs/oh-my-posh/themes
 para cambiar el tema desde pa pagina: https://ohmyposh.dev/docs/themes
 
 ## Configuracion mysql
-Esto para poder ejecutar comando mysql desde bash
+Esto para poder ejecutar comando mysql desde bash:
 cd ~ && echo "alias mysql=\"winpty mysql\"" >> .bash_profile
 
 ## Congifuracion de neovim y treeview (...proximamente)
